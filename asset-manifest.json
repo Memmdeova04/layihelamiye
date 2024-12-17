@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/layihelamiye/static/css/main.e6c13ad2.css",
+    "main.js": "/layihelamiye/static/js/main.4ae58208.js",
+    "static/js/453.ed3810f9.chunk.js": "/layihelamiye/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/layihelamiye/index.html",
+    "main.e6c13ad2.css.map": "/layihelamiye/static/css/main.e6c13ad2.css.map",
+    "main.4ae58208.js.map": "/layihelamiye/static/js/main.4ae58208.js.map",
+    "453.ed3810f9.chunk.js.map": "/layihelamiye/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4ae58208.js"
+  ]
+}
